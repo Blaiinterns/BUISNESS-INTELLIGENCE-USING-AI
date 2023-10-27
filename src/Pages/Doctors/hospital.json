@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rajiv Gandhi Zoological Park",
+        "DESCRIPTIO": "Pune - Satara Rd, opp. Katraj Dairy, Katraj, Pune, Maharashtra 411046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.8621952878994,18.45596791278037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mahatma Phule Museum",
+        "DESCRIPTIO": "1204/10, Ghole Rd, Shivajinagar, Pune, Maharashtra 411004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.84542389883742,18.525025106892812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Peshwe Museum",
+        "DESCRIPTIO": "FRWW+VQR, Parvati Hills, Parvati Paytha, Pune, Maharashtra 411009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.84684022200067,18.50033623492432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Laal Mahal",
+        "DESCRIPTIO": "Chhatrapati Shivaji Maharaj Rd, Durvankur Society, Kasba Peth, Pune, Maharashtra 411011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.85609313170394,18.522759091155624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Darshan Museum",
+        "DESCRIPTIO": "10, Sadhu Vaswani Rd, near G.P.O, Agarkar Nagar, Pune, Maharashtra 411001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.87624391283549,18.52802316183886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Shaniwar Wada",
+        "DESCRIPTIO": "Shaniwar Peth, Pune, Maharashtra 411030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.85403692954766,18.523343995900987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Katraj Lake",
+        "DESCRIPTIO": "CVV7+Q5H, Katraj Vasahat, Katraj, Pune, Maharashtra 411046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.86231545235887,18.44737419998859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gandhi National Memorial Society",
+        "DESCRIPTIO": "Agakhan Palace, Nagar Road, Kalyani Nagar, Pune, Maharashtra 411006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 73.90187726104271,18.556781132582845]
+      }
+    }
+  ]
+}
